@@ -1,0 +1,156 @@
+body{
+    margin: 0px ;
+}
+.nav-contents{
+    text-decoration: none;
+    display: inline;
+    padding: 7px;
+    
+    
+}
+.nav-contents > a{
+    text-decoration: none;
+    color: white;
+    border-left: 0.1px white;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    font-size: 15px;
+    border-style: solid;
+    padding-left: 14px ;
+    padding-right: 0px;
+
+
+}
+.top-head{
+    margin-bottom: 0px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.top-para{
+    margin-top: 0px;
+    color: white;
+    font-size: 10px;
+    font-family: sans-serif;
+    text-align: center;
+}
+button{
+    font-size: 0.8em ;
+    margin: 0.5em;
+    border: white;
+    
+}
+.my-linkbtn , .search{
+    color: white;
+    background-color:#4f91cd;
+    border: white ;
+    padding: 0.5em 1em;
+    border-radius: 0.4em;
+    border: 0.5px;
+    border-style: solid;
+    
+}
+.top-heading{
+    background-color: #4f91cd ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+    align-items: center;
+    margin-top:-35px;
+    
+}
+.my-sec-bar>li{
+    text-decoration: none;
+    display: flex;
+    padding: 15px;
+    
+    
+}
+.s-link{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+}
+.second-navbar>div>ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #043867 ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.second-navbar>div>ul>li{
+    
+    border-right:  2.2px  white;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    padding-right: 70px;
+    padding-left: 5px;
+}
+#image-container{
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+}
+#image-text{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 35%;
+    color:white;
+    font-size: 50px;
+    left: 50%;
+    
+
+
+}
+.image-bar{
+    display: inline-block;
+    margin-bottom: 5px;
+    
+}
+.fourth-bar{
+    background-color:rgb(12, 189, 12);
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   margin: 0px 20px;
+}
+.fourth-bar>h1{
+    font-size: 50px;
+    display: inline;
+    width:750px;
+    margin-right: 45px;
+    margin-left: 35px;
+    
+    
+    
+    
+    
+}
+.fourth-bar>p{
+    margin: 0px 35px; 
+    font-size: 15px;
+    justify-content: center;
+}
+#programs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.blue-box{
+    background-color: light skyblue;
+}
+
+
+
+
+
+
+
+    
