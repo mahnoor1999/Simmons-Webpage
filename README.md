@@ -1,2 +1,2 @@
-# class-task1
-here is the link of my website https://mahnoor1999.github.io/class-task1/.
+
+Here is the link of my website https://mahnoor1999.github.io/JS-documentation/
